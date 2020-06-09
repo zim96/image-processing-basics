@@ -1,2 +1,3 @@
-# image-processing-basics
-Basics of Image Processing including Filtering and Frequency Domain
+# Image Processing Experiments
+
+I implement various ideas/algorithms to test how it works and understand it's inner-workings.
